@@ -1,0 +1,13 @@
+D:\ZNewJobs\Medion\MedionTest\bin\Debug\netcoreapp3.1\MedionTest.exe
+D:\ZNewJobs\Medion\MedionTest\bin\Debug\netcoreapp3.1\MedionTest.deps.json
+D:\ZNewJobs\Medion\MedionTest\bin\Debug\netcoreapp3.1\MedionTest.runtimeconfig.json
+D:\ZNewJobs\Medion\MedionTest\bin\Debug\netcoreapp3.1\MedionTest.runtimeconfig.dev.json
+D:\ZNewJobs\Medion\MedionTest\bin\Debug\netcoreapp3.1\MedionTest.dll
+D:\ZNewJobs\Medion\MedionTest\bin\Debug\netcoreapp3.1\MedionTest.pdb
+D:\ZNewJobs\Medion\MedionTest\obj\Debug\netcoreapp3.1\MedionTest.csprojAssemblyReference.cache
+D:\ZNewJobs\Medion\MedionTest\obj\Debug\netcoreapp3.1\MedionTest.AssemblyInfoInputs.cache
+D:\ZNewJobs\Medion\MedionTest\obj\Debug\netcoreapp3.1\MedionTest.AssemblyInfo.cs
+D:\ZNewJobs\Medion\MedionTest\obj\Debug\netcoreapp3.1\MedionTest.csproj.CoreCompileInputs.cache
+D:\ZNewJobs\Medion\MedionTest\obj\Debug\netcoreapp3.1\MedionTest.dll
+D:\ZNewJobs\Medion\MedionTest\obj\Debug\netcoreapp3.1\MedionTest.pdb
+D:\ZNewJobs\Medion\MedionTest\obj\Debug\netcoreapp3.1\MedionTest.genruntimeconfig.cache
