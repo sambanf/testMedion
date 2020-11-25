@@ -66,6 +66,7 @@ namespace MedionTest
         }
         static void Main(string[] args)
         {
+            Console.WriteLine("Masukan pembilang yang akan di konversl :");
             String input = Console.ReadLine();
             String[] inputsplit = input.Split(" ");
             int res = 0;
